@@ -4,5 +4,7 @@
 ![alt text](Linux/553415_1.png)
 ![alt text](Linux/553415_2.png)
 ![alt text](Linux/553415_3.png)
+![alt text](Linux/553415_4.png)
+![alt text](Linux/553415_5.png)
 
 
