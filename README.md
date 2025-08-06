@@ -6,8 +6,8 @@
 ![alt text](Linux/553415_3.png)
 ![alt text](Linux/553415_4.png)
 ![alt text](Linux/553415_5.png)
-![alt text](Cprogram/553415_10.png)
-![alt text](Cprogram/553415_9.png)
+![alt text](Cprogram/5534156_10.png)
+![alt text](Cprogram/5534516_11.png)
 
 
 
